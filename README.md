@@ -1,4 +1,17 @@
-# aminur670.github.io
-Aminur670's Github Page
+##### Welcome to My Website
+### Hi , I'm
+## MD.Asaduzzaman Aminur
+### Diploma in Enginnering(CSE)
+#### aminur670601@gmail.com
 
-Site is under construction
+---
+### This is is under development.
+----------
+[Download CV]()
+
+[text](https://link)
+----------
+
+<hr>
+### For any Support or Contact
+Email: aminur670601@gmail.com
