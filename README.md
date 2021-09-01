@@ -7,9 +7,8 @@
 ---
 ### This is is under development.
 ----------
-[Download CV]()
-
-[text](https://link)
+[Download 2 page CV](.Aminur CV 2021/Aminur CV 2page.pdf) 
+[Download Full CV](.Aminur CV 2021\Aminur CV.pdf) 
 ----------
 
 <hr>
