@@ -1,3 +1,5 @@
+
+
 ##### Welcome to My Website
 ### Hi , I'm
 ## MD.Asaduzzaman Aminur
@@ -7,9 +9,9 @@
 ---
 ## This is is under development.
 ----------
-### >>[Download 2 page CV](https://github.com/Aminur670/aminur670.github.io/blob/main/.Aminur%20CV%202021/Aminur%20CV%202page.pdf) 
+### >>[Download 2 page CV](https://github.com/Aminur670/aminur670.github.io/raw/main/.Aminur%20CV%202021/Aminur%20CV%202page.pdf) 
 
-### >>[Download Full CV](https://github.com/Aminur670/aminur670.github.io/blob/main/.Aminur%20CV%202021/Aminur%20CV.pdf)
+### >>[Download Full CV](https://github.com/Aminur670/aminur670.github.io/raw/main/.Aminur%20CV%202021/Aminur%20CV.pdf)
 
 ----------
  
